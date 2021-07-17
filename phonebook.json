@@ -1,0 +1,12 @@
+{
+  "1234567890": {
+    "first_name": "Mihail",
+    "last_name": "Barkov",
+    "city": "Mariupol"
+  },
+  "0987654321": {
+    "first_name": "Aleksandr",
+    "last_name": "Nikolaenko",
+    "city": "Kyiv"
+  }
+}
